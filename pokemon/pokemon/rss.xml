@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>Página Pokémon</title>
-        <link>https://cao402.github.io/pokemon/pokemon</link>
-        <description>Un índice para entrar a las otras páginas donde se pueden ver Pokémon.</description>
-        <copyright>CC BY-SA 4.0</copyright>
+        <link>https://cao402.github.io/pokemon/</link>
+        <description>Un índice para acceder a las otras páginas donde se pueden ver Pokémon.</description>
         <language>es</language>
+        <copyright>CC BY-SA 4.0</copyright>
 
         <item>
             <title>Página Pokémon</title>
             <link>https://cao402.github.io/pokemon/</link>
-            <description>Un índice para entrar a las otras páginas donde se pueden ver Pokémon.</description>
-            <author>Ricardo</author>
+            <description>Un índice para acceder a las otras páginas donde se pueden ver Pokémon.</description>
+            <author>ricardo@example.com (Ricardo)</author>
             <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
         </item>
     </channel>
