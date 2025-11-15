@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Pagina pokemon</title>
+        <link>https://cao402.github.io/tarea/</link>
+        <description>Un index para entrar a las otras paginas donde se puede ver pokemons.</description>
+        <copyright>CC 4.0 – BY-SA</copyright>
+
+        <item>
+            <title>Pagina pokemon</title>
+            <link>https://cao402.github.io/tarea/</link>
+            <description>Un index para entrar a las otras paginas donde se puede ver pokemons.</description>
+            <author>Ricardo</author>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

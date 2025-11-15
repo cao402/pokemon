@@ -1,0 +1,22 @@
+.fondo{
+    background-color: #5cfa00; 
+    width: 500px;
+    height: 500px;
+}
+.tabla{
+    width: 101%;
+    background-color: #5cfa00; 
+}
+.recuadro{
+    background-color: #001f2e
+}
+.info{
+    color: #FFFFFF; 
+    background-color: #f93b00
+}
+.info2{
+    background-color:#f93b00 
+}
+.tamaño{
+    font-size: 21px;
+}
