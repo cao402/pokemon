@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Pagina pokemon</title>
+        <title>Página Pokémon</title>
         <link>https://cao402.github.io/pokemon/</link>
-        <description>Un index para entrar a las otras paginas donde se puede ver pokemons.</description>
-        <copyright>CC 4.0 – BY-SA</copyright>
+        <description>Un índice para entrar a las otras páginas donde se pueden ver Pokémon.</description>
+        <copyright>CC BY-SA 4.0</copyright>
+        <language>es</language>
 
         <item>
-            <title>Pagina pokemon</title>
+            <title>Página Pokémon</title>
             <link>https://cao402.github.io/pokemon/</link>
-            <description>Un index para entrar a las otras paginas donde se puede ver pokemons.</description>
+            <description>Un índice para entrar a las otras páginas donde se pueden ver Pokémon.</description>
             <author>Ricardo</author>
             <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
         </item>
